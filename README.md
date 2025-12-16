@@ -33,7 +33,7 @@ The goal is to showcase how Excel can be used to clean, analyze, and visualize d
 --- 
 
 ## 📌 Author
-👤 Shivansh (Venom-Shivu)
+👤 Shivansh Yadav (Venom)
 Passionate about Excel dashboards, data visualization, and user-friendly analysis tools.
 
 ## 📜 License
